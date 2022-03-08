@@ -1,0 +1,10 @@
+1-Milk
+2-Sugar
+3-Piple
+4-Oranges
+5-Meet
+6-cereals
+7-Apple
+8-Potatoes
+9-Mangoes
+10-Chili
